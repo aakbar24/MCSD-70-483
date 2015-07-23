@@ -21,6 +21,7 @@ namespace UseOfContinue
                 }
             }
              * this is test for github
+             * this is 2nd line
         
              */
             int n = int.Parse(Console.ReadLine());
