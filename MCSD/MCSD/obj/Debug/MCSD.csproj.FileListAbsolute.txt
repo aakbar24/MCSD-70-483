@@ -1,0 +1,5 @@
+c:\users\mohammed\documents\visual studio 2012\Projects\MCSD\MCSD\bin\Debug\MCSD.exe.config
+c:\users\mohammed\documents\visual studio 2012\Projects\MCSD\MCSD\bin\Debug\MCSD.exe
+c:\users\mohammed\documents\visual studio 2012\Projects\MCSD\MCSD\bin\Debug\MCSD.pdb
+c:\users\mohammed\documents\visual studio 2012\Projects\MCSD\MCSD\obj\Debug\MCSD.exe
+c:\users\mohammed\documents\visual studio 2012\Projects\MCSD\MCSD\obj\Debug\MCSD.pdb
