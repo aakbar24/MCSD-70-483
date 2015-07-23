@@ -3,3 +3,9 @@ C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\MCSD\UseOfContinue\bin\D
 C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\MCSD\UseOfContinue\bin\Debug\UseOfContinue.pdb
 C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\MCSD\UseOfContinue\obj\Debug\UseOfContinue.exe
 C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\MCSD\UseOfContinue\obj\Debug\UseOfContinue.pdb
+C:\git\MCSD-70-483\MCSD\UseOfContinue\bin\Debug\UseOfContinue.exe.config
+C:\git\MCSD-70-483\MCSD\UseOfContinue\obj\Debug\UseOfContinue.exe
+C:\git\MCSD-70-483\MCSD\UseOfContinue\obj\Debug\UseOfContinue.pdb
+C:\git\MCSD-70-483\MCSD\UseOfContinue\bin\Debug\UseOfContinue.exe
+C:\git\MCSD-70-483\MCSD\UseOfContinue\bin\Debug\UseOfContinue.pdb
+C:\git\MCSD-70-483\MCSD\UseOfContinue\obj\Debug\UseOfContinue.csprojResolveAssemblyReference.cache
