@@ -3,3 +3,9 @@ C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\MCSD\4\bin\Debug\4.exe
 C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\MCSD\4\bin\Debug\4.pdb
 C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\MCSD\4\obj\Debug\4.exe
 C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\MCSD\4\obj\Debug\4.pdb
+C:\git\MCSD-70-483\MCSD\4\bin\Debug\4.exe.config
+C:\git\MCSD-70-483\MCSD\4\bin\Debug\4.exe
+C:\git\MCSD-70-483\MCSD\4\bin\Debug\4.pdb
+C:\git\MCSD-70-483\MCSD\4\obj\Debug\4.exe
+C:\git\MCSD-70-483\MCSD\4\obj\Debug\4.pdb
+C:\git\MCSD-70-483\MCSD\4\obj\Debug\4.csprojResolveAssemblyReference.cache

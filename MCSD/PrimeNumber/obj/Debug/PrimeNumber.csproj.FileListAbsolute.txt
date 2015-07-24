@@ -4,3 +4,8 @@ C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\MCSD\PrimeNumber\bin\Deb
 C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\MCSD\PrimeNumber\obj\Debug\PrimeNumber.csprojResolveAssemblyReference.cache
 C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\MCSD\PrimeNumber\obj\Debug\PrimeNumber.exe
 C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\MCSD\PrimeNumber\obj\Debug\PrimeNumber.pdb
+C:\git\MCSD-70-483\MCSD\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\git\MCSD-70-483\MCSD\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\git\MCSD-70-483\MCSD\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\git\MCSD-70-483\MCSD\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\git\MCSD-70-483\MCSD\PrimeNumber\obj\Debug\PrimeNumber.pdb
