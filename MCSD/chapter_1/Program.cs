@@ -19,7 +19,7 @@ namespace chapter_1
                 intArr[i] = i + 1;
             }
 
-            foreach (int num in intArr // missing
+            foreach (int num in intArr) // missing
             {
                 
                 //Console.WriteLine("index is : {0} ", num);
