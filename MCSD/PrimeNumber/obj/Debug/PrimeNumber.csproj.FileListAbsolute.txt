@@ -9,3 +9,4 @@ C:\git\MCSD-70-483\MCSD\PrimeNumber\bin\Debug\PrimeNumber.exe
 C:\git\MCSD-70-483\MCSD\PrimeNumber\bin\Debug\PrimeNumber.pdb
 C:\git\MCSD-70-483\MCSD\PrimeNumber\obj\Debug\PrimeNumber.exe
 C:\git\MCSD-70-483\MCSD\PrimeNumber\obj\Debug\PrimeNumber.pdb
+C:\Git\MCSD-70-483\MCSD\PrimeNumber\obj\Debug\PrimeNumber.csprojResolveAssemblyReference.cache

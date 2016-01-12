@@ -9,3 +9,4 @@ C:\git\MCSD-70-483\MCSD\8\bin\Debug\8.exe
 C:\git\MCSD-70-483\MCSD\8\bin\Debug\8.pdb
 C:\git\MCSD-70-483\MCSD\8\obj\Debug\8.exe
 C:\git\MCSD-70-483\MCSD\8\obj\Debug\8.pdb
+C:\Git\MCSD-70-483\MCSD\8\obj\Debug\Spell_number.csprojResolveAssemblyReference.cache
