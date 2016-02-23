@@ -80,6 +80,6 @@ C:\Git\MCSD-70-483\MCSD\MvcApplication2\bin\ko\System.Spatial.resources.dll
 C:\Git\MCSD-70-483\MCSD\MvcApplication2\bin\ru\System.Spatial.resources.dll
 C:\Git\MCSD-70-483\MCSD\MvcApplication2\bin\zh-Hans\System.Spatial.resources.dll
 C:\Git\MCSD-70-483\MCSD\MvcApplication2\bin\zh-Hant\System.Spatial.resources.dll
-C:\Git\MCSD-70-483\MCSD\MvcApplication2\obj\Debug\MvcApplication2.csprojResolveAssemblyReference.cache
 C:\Git\MCSD-70-483\MCSD\MvcApplication2\obj\Debug\MvcApplication2.dll
 C:\Git\MCSD-70-483\MCSD\MvcApplication2\obj\Debug\MvcApplication2.pdb
+C:\Git\MCSD-70-483\MCSD\MvcApplication2\obj\Debug\MvcApplication2.csprojResolveAssemblyReference.cache

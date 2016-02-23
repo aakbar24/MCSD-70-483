@@ -6,6 +6,5 @@ C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\MCSD\IntroPrograming\obj
 C:\Git\MCSD-70-483\MCSD\IntroPrograming\bin\Debug\IntroPrograming.exe.config
 C:\Git\MCSD-70-483\MCSD\IntroPrograming\bin\Debug\IntroPrograming.exe
 C:\Git\MCSD-70-483\MCSD\IntroPrograming\bin\Debug\IntroPrograming.pdb
-C:\Git\MCSD-70-483\MCSD\IntroPrograming\obj\Debug\IntroPrograming.csprojResolveAssemblyReference.cache
 C:\Git\MCSD-70-483\MCSD\IntroPrograming\obj\Debug\IntroPrograming.exe
 C:\Git\MCSD-70-483\MCSD\IntroPrograming\obj\Debug\IntroPrograming.pdb

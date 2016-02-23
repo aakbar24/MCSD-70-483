@@ -6,6 +6,5 @@ c:\Users\Mohammed\documents\visual studio 2012\Projects\MCSD\chapter_1\obj\Debug
 C:\Git\MCSD-70-483\MCSD\chapter_1\bin\Debug\chapter_1.exe.config
 C:\Git\MCSD-70-483\MCSD\chapter_1\bin\Debug\chapter_1.exe
 C:\Git\MCSD-70-483\MCSD\chapter_1\bin\Debug\chapter_1.pdb
-C:\Git\MCSD-70-483\MCSD\chapter_1\obj\Debug\chapter_1.csprojResolveAssemblyReference.cache
 C:\Git\MCSD-70-483\MCSD\chapter_1\obj\Debug\chapter_1.exe
 C:\Git\MCSD-70-483\MCSD\chapter_1\obj\Debug\chapter_1.pdb
