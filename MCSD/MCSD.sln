@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseOfContinue", "UseOfConti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication2", "MvcApplication2\MvcApplication2.csproj", "{F3196C53-CD4B-4078-AF9C-F10DBB50DE1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitTest", "NunitTest\NunitTest.csproj", "{3B5B3C89-2927-47DE-9AE4-40D011E646BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{F3196C53-CD4B-4078-AF9C-F10DBB50DE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3196C53-CD4B-4078-AF9C-F10DBB50DE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3196C53-CD4B-4078-AF9C-F10DBB50DE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5B3C89-2927-47DE-9AE4-40D011E646BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5B3C89-2927-47DE-9AE4-40D011E646BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5B3C89-2927-47DE-9AE4-40D011E646BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5B3C89-2927-47DE-9AE4-40D011E646BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

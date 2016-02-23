@@ -3,9 +3,8 @@ c:\users\mohammed\documents\visual studio 2012\Projects\MCSD\MCSD\bin\Debug\MCSD
 c:\users\mohammed\documents\visual studio 2012\Projects\MCSD\MCSD\bin\Debug\MCSD.pdb
 c:\users\mohammed\documents\visual studio 2012\Projects\MCSD\MCSD\obj\Debug\MCSD.exe
 c:\users\mohammed\documents\visual studio 2012\Projects\MCSD\MCSD\obj\Debug\MCSD.pdb
-C:\git\MCSD-70-483\MCSD\MCSD\bin\Debug\MCSD.exe.config
-C:\git\MCSD-70-483\MCSD\MCSD\bin\Debug\MCSD.exe
-C:\git\MCSD-70-483\MCSD\MCSD\bin\Debug\MCSD.pdb
-C:\git\MCSD-70-483\MCSD\MCSD\obj\Debug\MCSD.exe
-C:\git\MCSD-70-483\MCSD\MCSD\obj\Debug\MCSD.pdb
-C:\git\MCSD-70-483\MCSD\MCSD\obj\Debug\MCSD.csprojResolveAssemblyReference.cache
+C:\Git\MCSD-70-483\MCSD\MCSD\bin\Debug\MCSD.exe.config
+C:\Git\MCSD-70-483\MCSD\MCSD\bin\Debug\MCSD.exe
+C:\Git\MCSD-70-483\MCSD\MCSD\bin\Debug\MCSD.pdb
+C:\Git\MCSD-70-483\MCSD\MCSD\obj\Debug\MCSD.exe
+C:\Git\MCSD-70-483\MCSD\MCSD\obj\Debug\MCSD.pdb

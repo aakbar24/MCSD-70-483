@@ -6,12 +6,14 @@ using System.Threading.Tasks;
 
 namespace chapter_1
 {
-    class Program
+   public class Program
     {
         static int[] intArr = new int[10];
+         public int count = 0;
         static void Main(string[] args)
         {
            // int[] intArr = { 1, 2, 3 };
+            
             
 
             for (int i = 1; i < 10; i++)

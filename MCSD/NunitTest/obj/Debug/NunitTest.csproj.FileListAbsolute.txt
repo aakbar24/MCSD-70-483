@@ -1,0 +1,9 @@
+C:\Git\MCSD-70-483\MCSD\NunitTest\bin\Debug\NunitTest.dll
+C:\Git\MCSD-70-483\MCSD\NunitTest\bin\Debug\NunitTest.pdb
+C:\Git\MCSD-70-483\MCSD\NunitTest\bin\Debug\chapter_1.exe
+C:\Git\MCSD-70-483\MCSD\NunitTest\bin\Debug\nunit.framework.dll
+C:\Git\MCSD-70-483\MCSD\NunitTest\bin\Debug\chapter_1.pdb
+C:\Git\MCSD-70-483\MCSD\NunitTest\bin\Debug\nunit.framework.xml
+C:\Git\MCSD-70-483\MCSD\NunitTest\obj\Debug\NunitTest.csprojResolveAssemblyReference.cache
+C:\Git\MCSD-70-483\MCSD\NunitTest\obj\Debug\NunitTest.dll
+C:\Git\MCSD-70-483\MCSD\NunitTest\obj\Debug\NunitTest.pdb
