@@ -15,7 +15,7 @@ namespace NunitTest
         public void positiveTest()
         {
             int x = 7;
-            test
+            //test
             int y = 8;
             Program p = new Program();
       
