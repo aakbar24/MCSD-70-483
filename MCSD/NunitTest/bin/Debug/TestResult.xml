@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="C:\Git\MCSD-70-483\MCSD\NunitTest\bin\Debug\NunitTest.dll" total="1" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-02-22" time="23:40:10">
+<test-results name="C:\Git\MCSD-70-483\MCSD\NunitTest\bin\Debug\NunitTest.dll" total="1" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-02-24" time="00:03:51">
   <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8670" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="DESKTOP-CK0RUQ5" user="Mohammed" user-domain="DESKTOP-CK0RUQ5" />
   <culture-info current-culture="en-CA" current-uiculture="en-US" />
-  <test-suite type="Assembly" name="C:\Git\MCSD-70-483\MCSD\NunitTest\bin\Debug\NunitTest.dll" executed="True" result="Failure" success="False" time="0.194" asserts="0">
+  <test-suite type="Assembly" name="C:\Git\MCSD-70-483\MCSD\NunitTest\bin\Debug\NunitTest.dll" executed="True" result="Failure" success="False" time="0.699" asserts="0">
     <results>
-      <test-suite type="Namespace" name="NunitTest" executed="True" result="Failure" success="False" time="0.176" asserts="0">
+      <test-suite type="Namespace" name="NunitTest" executed="True" result="Failure" success="False" time="0.691" asserts="0">
         <results>
-          <test-suite type="TestFixture" name="Class1" executed="True" result="Failure" success="False" time="0.174" asserts="0">
+          <test-suite type="TestFixture" name="Class1" executed="True" result="Failure" success="False" time="0.689" asserts="0">
             <results>
-              <test-case name="NunitTest.Class1.positiveTest" executed="True" result="Failure" success="False" time="0.159" asserts="1">
+              <test-case name="NunitTest.Class1.positiveTest" executed="True" result="Failure" success="False" time="0.677" asserts="1">
                 <failure>
                   <message><![CDATA[  Expected: 1
   But was:  0
 ]]></message>
-                  <stack-trace><![CDATA[at NunitTest.Class1.positiveTest() in c:\Git\MCSD-70-483\MCSD\NunitTest\Class1.cs:line 21
+                  <stack-trace><![CDATA[at NunitTest.Class1.positiveTest() in c:\Git\MCSD-70-483\MCSD\NunitTest\Class1.cs:line 22
 ]]></stack-trace>
                 </failure>
               </test-case>
