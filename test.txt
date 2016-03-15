@@ -6,9 +6,9 @@ this is from github
 
 === this is the line from newbranch branch
 after line level comment
-<<<<<<< HEAD
+
 
 this is chage from localbox
 =======
 manuallu edited
->>>>>>> 0eab431844a6874a1b3720d5aa5c9a89690972f2
+
